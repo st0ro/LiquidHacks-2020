@@ -1,0 +1,23 @@
+{
+  "name": "liquidhacks-2020",
+  "version": "1.0.0",
+  "description": "LiquidHacks 2020 submission",
+  "main": "bluebot.js",
+  "dependencies": {
+    "discord.js": "^12.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node bluebot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/st0ro/LiquidHacks-2020.git"
+  },
+  "author": "st0ro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/st0ro/LiquidHacks-2020/issues"
+  },
+  "homepage": "https://github.com/st0ro/LiquidHacks-2020#readme"
+}
